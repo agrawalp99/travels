@@ -2,7 +2,7 @@
 
 
 
-Shows a working setup for using the Synopsys CoPilot integration to analyze the risk of project dependencies
+Shows a working setup for using the Synopsys CoPilot integration to analyze the risk of project dependencies test
 
 ## Travis CI Setup
 
